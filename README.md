@@ -63,19 +63,15 @@ A creative technology enthusiast and multidisciplinary developer passionate abou
 - 📧 **Email:** pulungbagas036@gmail.com
 - 💼 **Portfolio:** [pulungbagass.github.io/MyPortfolio/](https://pulungbagass.github.io/MyPortfolio/) -->
 
-
-
-
-
 <div align="center">
 
 <!-- Animated wave header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pulung%20Bagas%20Setiawan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Creative%20Tech%20%7C%20Full-Stack%20%7C%20IoT%20%7C%20Content%20Creator&descAlignY=55&descSize=16" />
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Bagas+👋;Full-Stack+Web+Developer;IoT+%26+Hardware+Enthusiast;Digital+Content+Creator;Always+learning+something+new+🚀" alt="Typing SVG" />
-</a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Bagas+%F0%9F%91%8B;Full-Stack+Web+Developer;IoT+%26+Hardware+Enthusiast;Digital+Content+Creator;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 <br/>
 
@@ -150,11 +146,7 @@ fun_fact: I love connecting smart hardware with clean web dashboards ⚡
 
 <!-- Snake animation -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pulungbagass/pulungbagass/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pulungbagass/pulungbagass/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/pulungbagass/pulungbagass/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pulungbagass&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
